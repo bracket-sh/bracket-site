@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4a70fb34.css",
+    "main.js": "/static/js/main.8389082f.js",
+    "static/js/488.e75445ad.chunk.js": "/static/js/488.e75445ad.chunk.js",
+    "static/media/bracket_logo.png": "/static/media/bracket_logo.d75584b91faa86a6314b.png",
+    "static/media/unicode.compacta.ttf": "/static/media/unicode.compacta.5530ebe924c4e234f194.ttf",
+    "index.html": "/index.html",
+    "main.4a70fb34.css.map": "/static/css/main.4a70fb34.css.map",
+    "main.8389082f.js.map": "/static/js/main.8389082f.js.map",
+    "488.e75445ad.chunk.js.map": "/static/js/488.e75445ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a70fb34.css",
+    "static/js/main.8389082f.js"
+  ]
+}
